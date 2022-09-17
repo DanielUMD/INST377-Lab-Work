@@ -133,6 +133,12 @@ form {
   margin: 1rem;
   padding: 1.5rem;
 }
+.left {
+  background-color: rgba(110, 171, 171, 0.892);
+  flex: 0 1 auto;
+  margin: 1rem;
+  padding: 1.5rem;
+}
 
 .right_section {
   background-color: rgba(255, 224, 138, 0.7);
