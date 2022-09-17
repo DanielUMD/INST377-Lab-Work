@@ -147,6 +147,14 @@ form {
   align-items: center;
   max-width: 450px;
 }
+.right {
+  background-color: rgba(255, 224, 138, 0.405);
+  flex: 1 2 auto;
+  margin: 1rem;
+  align-items: center;
+  max-width: 450px;
+
+}
 
 /*
   This block is actually dependent on the "container" block having a flex set on it
